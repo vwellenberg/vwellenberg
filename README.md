@@ -1,4 +1,4 @@
-![Vincent W.'s GitHub stats](https://github-readme-stats.vercel.app/api?username=vwellenberg&count_private=true&show_icons=true&theme=merko)
+![Vincent W.'s GitHub stats](https://github-readme-stats.vercel.app/api?username=vwellenberg&count_private=true&show_icons=true&theme=gruvbox)
 
 <!--
 **vwellenberg/vwellenberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
