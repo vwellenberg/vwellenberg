@@ -1,4 +1,4 @@
-![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=vwellenberg&count_private=true&show_icons=true&theme=synthwave&hide=contribs,prs,stars,issues)
+![Vincent's GitHub stats](https://github-readme-stats-one-pi-44.vercel.app/api?username=vwellenberg&count_private=true&show_icons=true&theme=synthwave&hide=contribs,prs,stars,issues)
 
 <!--
 
